@@ -1,3 +1,7 @@
+### -------------------------------------------------------------------------------------------------------------------
+### helps you mass purchase wingulls on pokecord which does not violate the pokecord anti botting rules whatsoever
+### -------------------------------------------------------------------------------------------------------------------
+
 import time, sys, re
 from pyautogui import press, typewrite, hotkey
 
